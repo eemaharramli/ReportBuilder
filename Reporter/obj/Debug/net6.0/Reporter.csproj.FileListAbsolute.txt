@@ -1,0 +1,15 @@
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/bin/Debug/net6.0/Reporter
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/bin/Debug/net6.0/Reporter.deps.json
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/bin/Debug/net6.0/Reporter.runtimeconfig.json
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/bin/Debug/net6.0/Reporter.dll
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/bin/Debug/net6.0/Reporter.pdb
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.csproj.AssemblyReference.cache
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.AssemblyInfoInputs.cache
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.AssemblyInfo.cs
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.csproj.CoreCompileInputs.cache
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.dll
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/refint/Reporter.dll
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.pdb
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/Reporter.genruntimeconfig.cache
+/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/Debug/net6.0/ref/Reporter.dll

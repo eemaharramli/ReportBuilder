@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/Reporter.csproj": {}
+  },
+  "projects": {
+    "/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/Reporter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/Reporter.csproj",
+        "projectName": "Reporter",
+        "projectPath": "/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/Reporter.csproj",
+        "packagesPath": "/Users/elnur/.nuget/packages/",
+        "outputPath": "/Users/elnur/Desktop/Projects/Backend/API/codaza/Design Patterns/Builder/Reporter/Reporter/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/elnur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
